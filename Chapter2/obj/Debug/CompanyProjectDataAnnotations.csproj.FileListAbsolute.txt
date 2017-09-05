@@ -1,0 +1,10 @@
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+C:\Users\martin\Desktop\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+C:\Users\martin\Desktop\Chapter2\Chapter2\obj\Debug\Chapter2.pdb
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\EntityFramework.dll
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\EntityFramework.xml
+C:\Users\martin\Desktop\Chapter2\Chapter2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\martin\Desktop\Chapter2\Chapter2\obj\Debug\CompanyProjectDataAnnotations.csprojResolveAssemblyReference.cache

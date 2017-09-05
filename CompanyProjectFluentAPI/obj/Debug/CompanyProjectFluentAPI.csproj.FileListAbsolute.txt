@@ -1,0 +1,10 @@
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\CompanyProjectFluentAPI.exe.config
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\CompanyProjectFluentAPI.exe
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\CompanyProjectFluentAPI.pdb
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\obj\Debug\CompanyProjectFluentAPI.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\obj\Debug\CompanyProjectFluentAPI.exe
+C:\Users\martin\Desktop\Chapter2\CompanyProjectFluentAPI\obj\Debug\CompanyProjectFluentAPI.pdb
